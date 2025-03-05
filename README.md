@@ -1,5 +1,3 @@
-### **README.md**
-
 # **nginx-docker-medium-blog 🚀**
 
 This repository demonstrates how to set up **Nginx** using **Docker** to serve static HTML files and configure a reverse proxy. It includes a sample project structure, Docker configurations, and Nginx settings.
